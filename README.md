@@ -1,6 +1,6 @@
 # ML Boilerplate
 
-Starter projects for learning about Machine Learning in Python.
+Starter projects / algorithms for learning about Machine Learning w/ Python.
 
 ## Downloading
 
