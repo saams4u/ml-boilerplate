@@ -1,6 +1,6 @@
 # ML Boilerplate
 
-Starter projects / algorithms for practicing Machine Learning w/ Python.
+Starter projects / algorithms for practicing Machine Learning w/ Python and R.
 
 ## Downloading
 
